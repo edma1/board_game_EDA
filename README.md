@@ -41,18 +41,18 @@ import seaborn as sns
 
 ```
 board-game-eda/
-├── data/                    # Contains dataset files
-├── notebooks/               # Jupyter notebooks with analysis
-├── visualizations/          # Generated charts and graphs
-├── README.md                # This file
-└── requirements.txt         # Python dependencies
+├── boardgame_data/                                 # Contains dataset files
+├── boardgame_eda_deck                              # Contains slides deck used for presentation
+├── Technical_Notebook_Boardgame_EDA/               # Jupyter notebooks with analysis
+└── README.md                                       # This file
+
 ```
 ##Getting Started
 1. Clone this repository
 
 2. Install required packages: pip install -r requirements.txt
 
-3. Run the Jupyter notebooks or Python scripts to reproduce the analysis
+3. Run the Jupyter Notebooks or Python scripts to reproduce the analysis
 
 ##Future Work
 This analysis provides a foundation for deeper investigation. Potential next steps include:
