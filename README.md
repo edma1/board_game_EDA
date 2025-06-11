@@ -41,7 +41,7 @@ import seaborn as sns
 
 ```
 board-game-eda/
-├── boardgame_data/                                 # Contains dataset files
+├── BGG_Data_Set.csv/                                 # Contains dataset files
 ├── boardgame_eda_deck                              # Contains slides deck used for presentation
 ├── Technical_Notebook_Boardgame_EDA/               # Jupyter notebooks with analysis
 └── README.md                                       # This file
